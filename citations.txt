@@ -1,0 +1,5 @@
+Asked AI to make a CSV of our data set
+https://claude.ai/share/0272b3a9-95ff-4b80-a96f-85b360f0d628
+
+Asked AI how to fix a small logic erorr in code
+https://claude.ai/chat/71362ff1-4059-4c4e-8e34-766154bf81d0
